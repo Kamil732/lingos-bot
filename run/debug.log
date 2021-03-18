@@ -1,0 +1,211 @@
+[1022/222705.884:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1023/160926.978:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1023/160927.316:ERROR:exception_snapshot_win.cc(99)] thread ID 1300 not found in process
+[1023/160927.855:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1023/160927.855:ERROR:exception_snapshot_win.cc(99)] thread ID 15776 not found in process
+[1024/135138.822:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1024/152807.422:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1024/152807.455:ERROR:exception_snapshot_win.cc(99)] thread ID 24144 not found in process
+[1024/152807.718:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1024/152807.719:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1024/152807.719:ERROR:exception_snapshot_win.cc(99)] thread ID 22352 not found in process
+[1024/152933.738:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1024/152933.754:ERROR:exception_snapshot_win.cc(99)] thread ID 27820 not found in process
+[1024/152933.796:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1024/152933.796:ERROR:exception_snapshot_win.cc(99)] thread ID 19572 not found in process
+[1024/154050.069:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1025/171621.408:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1027/092639.647:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1028/134107.184:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1028/134107.287:ERROR:exception_snapshot_win.cc(99)] thread ID 35224 not found in process
+[1028/134107.338:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1028/134107.338:ERROR:exception_snapshot_win.cc(99)] thread ID 41896 not found in process
+[1028/232033.690:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1028/232033.724:ERROR:exception_snapshot_win.cc(99)] thread ID 36824 not found in process
+[1028/232033.765:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1028/232033.765:ERROR:exception_snapshot_win.cc(99)] thread ID 41964 not found in process
+[1030/192931.189:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1031/153615.015:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1101/133643.031:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1104/210804.909:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1104/210804.938:ERROR:exception_snapshot_win.cc(99)] thread ID 17940 not found in process
+[1104/210804.986:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1104/210804.986:ERROR:exception_snapshot_win.cc(99)] thread ID 11668 not found in process
+[1104/212050.366:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1106/001841.146:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1108/124541.088:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1109/113701.374:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1110/233959.849:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1111/185128.046:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1111/190342.846:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1112/205617.968:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1112/222521.487:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1112/222521.488:ERROR:exception_snapshot_win.cc(99)] thread ID 23768 not found in process
+[1112/222521.745:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1112/222521.745:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1112/222521.745:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1112/222521.745:ERROR:exception_snapshot_win.cc(99)] thread ID 26416 not found in process
+[1112/223453.389:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1112/223453.392:ERROR:exception_snapshot_win.cc(99)] thread ID 19816 not found in process
+[1112/223453.428:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1112/223453.428:ERROR:exception_snapshot_win.cc(99)] thread ID 16248 not found in process
+[1113/121658.458:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1113/122231.514:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1113/122231.529:ERROR:exception_snapshot_win.cc(99)] thread ID 16156 not found in process
+[1113/122231.569:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1113/122231.569:ERROR:exception_snapshot_win.cc(99)] thread ID 11284 not found in process
+[1116/183222.705:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1119/234517.417:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1120/112938.236:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1120/113328.782:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1120/113328.782:ERROR:exception_snapshot_win.cc(99)] thread ID 5224 not found in process
+[1120/113328.823:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1120/113328.823:ERROR:exception_snapshot_win.cc(99)] thread ID 1176 not found in process
+[1123/100144.833:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1124/085018.232:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1126/161318.794:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1126/192738.274:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1126/192738.314:ERROR:exception_snapshot_win.cc(99)] thread ID 10296 not found in process
+[1126/192738.834:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1126/192738.834:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1126/192738.839:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1126/192738.839:ERROR:exception_snapshot_win.cc(99)] thread ID 20720 not found in process
+[1129/235531.825:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1130/114919.292:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1130/115231.032:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1130/115231.045:ERROR:exception_snapshot_win.cc(99)] thread ID 3732 not found in process
+[1130/115231.093:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1130/115231.093:ERROR:exception_snapshot_win.cc(99)] thread ID 14716 not found in process
+[1201/120324.897:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1201/120347.336:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1201/120347.336:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1201/120347.336:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1201/120347.351:ERROR:exception_snapshot_win.cc(99)] thread ID 12184 not found in process
+[1201/120347.373:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1201/120347.373:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1201/120347.373:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1201/120347.373:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1201/120347.373:ERROR:exception_snapshot_win.cc(99)] thread ID 15368 not found in process
+[1201/124026.881:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1202/105706.859:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1202/112738.953:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1202/112738.954:ERROR:exception_snapshot_win.cc(99)] thread ID 13324 not found in process
+[1202/112738.994:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1202/112738.995:ERROR:exception_snapshot_win.cc(99)] thread ID 9960 not found in process
+[1203/094348.171:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1203/095027.259:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1203/095027.259:ERROR:exception_snapshot_win.cc(99)] thread ID 15344 not found in process
+[1203/095027.305:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095027.305:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1203/095027.305:ERROR:exception_snapshot_win.cc(99)] thread ID 1708 not found in process
+[1203/095451.636:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.637:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1203/095451.638:ERROR:exception_snapshot_win.cc(99)] thread ID 15188 not found in process
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.658:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1203/095451.659:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1203/095451.659:ERROR:exception_snapshot_win.cc(99)] thread ID 21840 not found in process
+[1204/083555.622:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1204/083555.636:ERROR:exception_snapshot_win.cc(99)] thread ID 5208 not found in process
+[1204/083555.692:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1204/083555.692:ERROR:exception_snapshot_win.cc(99)] thread ID 692 not found in process
+[1204/084604.947:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1204/090722.184:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1204/090722.185:ERROR:exception_snapshot_win.cc(99)] thread ID 9932 not found in process
+[1204/090722.241:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1204/090722.241:ERROR:exception_snapshot_win.cc(99)] thread ID 19540 not found in process
+[1204/091729.498:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1205/135003.744:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1205/135003.819:ERROR:exception_snapshot_win.cc(99)] thread ID 19820 not found in process
+[1205/135003.988:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1205/135003.988:ERROR:exception_snapshot_win.cc(99)] thread ID 12116 not found in process
+[1205/140015.005:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1205/145237.122:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1205/145237.122:ERROR:exception_snapshot_win.cc(99)] thread ID 17516 not found in process
+[1205/145237.355:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1205/145237.355:ERROR:exception_snapshot_win.cc(99)] thread ID 12036 not found in process
+[1206/232043.367:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1207/002044.731:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1207/002044.731:ERROR:exception_snapshot_win.cc(99)] thread ID 21584 not found in process
+[1207/002044.795:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1207/002044.795:ERROR:exception_snapshot_win.cc(99)] thread ID 16396 not found in process
+[1207/232346.681:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1208/110133.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1208/120618.682:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1208/120618.705:ERROR:exception_snapshot_win.cc(99)] thread ID 2764 not found in process
+[1208/120619.040:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1208/120619.041:ERROR:exception_snapshot_win.cc(99)] thread ID 18324 not found in process
+[1208/121629.135:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1208/125125.165:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1208/125125.188:ERROR:exception_snapshot_win.cc(99)] thread ID 17864 not found in process
+[1208/125125.289:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1208/125125.289:ERROR:exception_snapshot_win.cc(99)] thread ID 15384 not found in process
+[1214/182401.393:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182401.407:ERROR:exception_snapshot_win.cc(99)] thread ID 21708 not found in process
+[1214/182401.469:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182401.469:ERROR:exception_snapshot_win.cc(99)] thread ID 21272 not found in process
+[1214/182628.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182628.894:ERROR:exception_snapshot_win.cc(99)] thread ID 6544 not found in process
+[1214/182628.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182628.941:ERROR:exception_snapshot_win.cc(99)] thread ID 19188 not found in process
+[1214/182731.964:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182731.964:ERROR:exception_snapshot_win.cc(99)] thread ID 13516 not found in process
+[1214/182732.000:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/182732.000:ERROR:exception_snapshot_win.cc(99)] thread ID 9192 not found in process
+[1214/183739.189:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1214/183744.919:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/183744.920:ERROR:exception_snapshot_win.cc(99)] thread ID 16112 not found in process
+[1214/183744.964:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1214/183744.964:ERROR:exception_snapshot_win.cc(99)] thread ID 20852 not found in process
+[1216/124208.535:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1216/125650.663:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1216/125650.673:ERROR:exception_snapshot_win.cc(99)] thread ID 22256 not found in process
+[1216/125650.807:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1216/125650.807:ERROR:exception_snapshot_win.cc(99)] thread ID 6428 not found in process
+[1218/213124.636:ERROR:directory_reader_win.cc(43)] FindFirstFile: System nie moze odnalezc okreslonej sciezki. (0x3)
+[1218/215111.402:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1218/215111.403:ERROR:exception_snapshot_win.cc(99)] thread ID 13064 not found in process
+[1218/215111.926:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1218/215111.927:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1218/215111.927:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1218/215111.927:ERROR:exception_snapshot_win.cc(99)] thread ID 15324 not found in process
+[1226/151824.957:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1226/151825.007:ERROR:process_reader_win.cc(151)] SuspendThread: Odmowa dostepu. (0x5)
+[1226/151825.008:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1226/151825.008:ERROR:exception_snapshot_win.cc(99)] thread ID 14056 not found in process
